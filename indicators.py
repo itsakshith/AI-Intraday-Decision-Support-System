@@ -1,3 +1,9 @@
+"""
+Module: Technical Indicators
+Project: AI-Based Intraday Market Decision Support System
+Description: Implements indicators referenced in the project report.
+"""
+
 import pandas as pd
 import numpy as np
 

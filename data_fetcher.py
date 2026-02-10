@@ -1,3 +1,9 @@
+"""
+Module: Data Fetcher
+Project: AI-Based Intraday Market Decision Support System
+Description: Fetches intraday stock market data as described in the project documentation.
+"""
+
 import yfinance as yf
 import pandas as pd
 

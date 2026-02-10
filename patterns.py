@@ -1,3 +1,9 @@
+"""
+Module: Pattern Detection
+Project: AI-Based Intraday Market Decision Support System
+Description: Detects chart patterns mentioned in the project PDF.
+"""
+
 import pandas as pd
 import numpy as np
 
