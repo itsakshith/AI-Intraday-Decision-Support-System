@@ -7,6 +7,8 @@ from patterns import detect_patterns
 # Since I need to insert imports at the top AND logic in the middle, I'll do two replaces or one big one.
 # Given the tool limitations, I will replace the whole file for safety and cleanliness as I did before. 
 # It ensures I don't miss import placement.
+# Initial version of application logic
+
 
 import streamlit as st
 import pandas as pd
